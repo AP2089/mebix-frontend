@@ -1,0 +1,24 @@
+@use "../styles/tokens" as *;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: $mebix-milk;
+  color: $mebix-graphite;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:focus-visible {
+  outline: 2px solid $mebix-wood;
+  outline-offset: 2px;
+}
+
+a {
+  transition-property: color, background-color, border-color;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}

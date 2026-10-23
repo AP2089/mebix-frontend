@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MEBIX">
+  <rect width="64" height="64" fill="#252823"/>
+  <path
+    d="M16 46V18h7.2l8.8 18.4L40.8 18H48v28h-6.4V28.2L34.4 46h-4.8L22.4 28.2V46H16z"
+    fill="#F6F3ED"
+  />
+</svg>

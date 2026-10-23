@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mebix-milk: #f6f3ed;
+  --color-mebix-graphite: #252823;
+  --color-mebix-wood: #b89a78;
+  --color-mebix-beige: #e8e0d4;
+  --color-mebix-white: #ffffff;
+  --font-sans: var(--font-manrope), "Segoe UI", sans-serif;
+  --font-display: var(--font-manrope), "Segoe UI", sans-serif;
+}
